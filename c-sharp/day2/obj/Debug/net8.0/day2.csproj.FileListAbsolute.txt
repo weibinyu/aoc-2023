@@ -1,0 +1,14 @@
+D:\neoVimDir\aoc-2023\c-sharp\day2\bin\Debug\net8.0\day2.exe
+D:\neoVimDir\aoc-2023\c-sharp\day2\bin\Debug\net8.0\day2.deps.json
+D:\neoVimDir\aoc-2023\c-sharp\day2\bin\Debug\net8.0\day2.runtimeconfig.json
+D:\neoVimDir\aoc-2023\c-sharp\day2\bin\Debug\net8.0\day2.dll
+D:\neoVimDir\aoc-2023\c-sharp\day2\bin\Debug\net8.0\day2.pdb
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.AssemblyInfoInputs.cache
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.AssemblyInfo.cs
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.csproj.CoreCompileInputs.cache
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.dll
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\refint\day2.dll
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.pdb
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\day2.genruntimeconfig.cache
+D:\neoVimDir\aoc-2023\c-sharp\day2\obj\Debug\net8.0\ref\day2.dll
